@@ -9,3 +9,6 @@ This program creates a bmp image of specified size. Function calculating whether
 > ./a [size]
 
 size - number from 1-12
+
+## Example
+![image](image.bmp)
